@@ -1,0 +1,16 @@
+div {
+  display: block;
+}
+.container-footer {
+  img {
+    position: relative;
+    display: inline-flex;
+  }
+  .overlay {
+    background-color: rgb(56, 56, 56);
+    opacity: 0.94;
+  }
+  .background-image-holder {
+    background-image: url("https://cdn2.site-media.eu/images/1680/2041388/61217_341644164422796530_ThinkstockPhotos489591071.jpg");
+  }
+}
